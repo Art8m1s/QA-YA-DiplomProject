@@ -48,7 +48,7 @@
   	</details>
 6. Протестировал при помощи Charles новую функциональность, разработанную только на бэкэнде
 7. Разработал <a href="https://docs.google.com/spreadsheets/d/1uzPVdP-kgTwLOfbLp3GWD7RPOQ6pR4KbWFJHHCqXnKI/edit?gid=336872680#gid=336872680">чек-лист</a> проверок API и проверил их через Postman
-8. Завел баг-репорты по результатам проведенных проверок сервиса "Яндекс.Самокат" в <a href="https://docs.google.com/spreadsheets/d/1xZYz8N9SK8DlYkQlmKxijGeF2GXOMADMx0yOeDHJ3j0/edit?gid=324053088#gid=324053088">документе</a>
+8. Завел баг-репорты по результатам проведенных проверок сервиса "Яндекс.Самокат" веб- и мобильной версии, а так же API в <a href="https://docs.google.com/spreadsheets/d/1xZYz8N9SK8DlYkQlmKxijGeF2GXOMADMx0yOeDHJ3j0/edit?gid=324053088#gid=324053088">документе</a>
     <details>
   	       <summary>Фрагмент чек-листа на валидацию</summary>
               
